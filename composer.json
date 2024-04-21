@@ -1,0 +1,16 @@
+{
+  "name": "michidk/michi",
+  "description": "Personal Portfolio",
+  "type": "project",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michelle Fich",
+      "email": "zene_q@hotmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+  }
+}

@@ -1,0 +1,13 @@
+@import 'components/social-links';
+@import 'components/video-container';
+@import 'components/fadeout';
+@import 'components/card';
+
+body, html {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  font-family: Georgia, serif
+}

@@ -1,0 +1,18 @@
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__link {
+    fill: white;
+    transition: opacity .3s ease-in;
+
+    &:nth-child(3) {
+      padding-top: 5px;
+    }
+
+    &:hover {
+      opacity: 0.5;
+    }
+  }
+}
