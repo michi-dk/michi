@@ -36,7 +36,7 @@ const App = () => {
                     />
                     <SocialLink
                         title="Go to Github"
-                        url="https://www.facebook.com/michelle.fich"
+                        url="https://github.com/michi-dk"
                         icon={<GithubIcon />}
                     />
                 </div>
